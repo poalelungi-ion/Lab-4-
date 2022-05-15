@@ -1,0 +1,9 @@
+.header-wrapper{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+.header-wrapper-btns{
+    display: flex;
+}
